@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **microservice architecture**
 
-- 🌱 I’m currently learning **Doker and kubernetes**
+- 🌱 I’m currently learning **Docker and kubernetes**
 
 - 💬 Ask me about **java**
 
